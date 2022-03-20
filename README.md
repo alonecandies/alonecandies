@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Long, I'm a third-year student at Hanoi University of Science and Technology and also be a web developer.
-- 👀 I’m interested in finding a job with the professional environment and the interesting challenges.
-- 🌱 I’m currently learning NodeJs, VueJS, ReactJS,...
-- 📫 How to reach me: You can direct me https://www.facebook.com/Mchanmanhme/
+- 👋 Hi, I am Long, I am a fourth-year student at Hanoi University of Science and Technology and also be a web developer.
+- 👀 I am a lifelong learner. My motto is "Knowledge is the only thing that nobody can take it away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone.
+- 🌱 I am currently learning NodeJs, VueJS, NuxtJS, ReactJS, NextJS... and something about AI
+- 📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/
