@@ -17,28 +17,39 @@
 </div>
 
 ## :man_technologist: About Me:
-👋 Hi, I am Long, I am a fourth-year student at Hanoi University of Science and Technology and also be a web developer.
-👀 I am a lifelong learner. My motto is "Knowledge is the only thing that nobody can take it away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone.
-🌱 I am currently learning NodeJs, VueJS, NuxtJS, ReactJS, NextJS... and something about AI
-📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/
+👋 Hi, I am Long, I am a fourth-year student at Hanoi University of Science and Technology and also be a web developer. \
+👀 I am a lifelong learner. My motto is "Knowledge is the only thing that nobody can take it away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone. \
+🌱 I am currently learning NodeJs, VueJS, NuxtJS, ReactJS, NextJS... and something about AI \
+📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/ 
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="nuxtjs" alt="nuxtjs" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="nuxtjs" alt="nuxtjs" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="30" height="30"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="30" height=30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height=30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" **alt="OpenCV" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
 
 ## :fire: My Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alonecandies&count_private=true&theme=tokyonight&showicons=true)
