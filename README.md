@@ -53,3 +53,7 @@
 
 ## :fire: My Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=alonecandies&count_private=true&theme=tokyonight&showicons=true)
+<div id="stats" display="inline">
+  <img src="https://github.com/alonecandies/github-stats/blob/master/generated/overview.svg" />
+  <img src="https://github.com/alonecandies/github-stats/blob/master/generated/languages.svg" />
+</div>
