@@ -17,14 +17,12 @@
 </div>
 
 ## :man_technologist: About Me:
-👋 Hi, I am Long, I am a fourth-year student at Hanoi University of Science and Technology and also be a web developer. \
-👀 I am a lifelong learner. My motto is "Knowledge is the only thing that nobody can take it away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone. \
-🌱 I am currently learning NodeJs, VueJS, NuxtJS, ReactJS, NextJS... and something about AI \
+👋 I am a lifelong learner, blockchain, and AI enthusiast, problem solver, and business-oriented. My motto is "Knowledge is the only thing that nobody can take away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone.
 📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/ 
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
