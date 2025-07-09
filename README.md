@@ -22,7 +22,6 @@
 
 ## :fire: My Works:
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
   <!-- First item centered -->
   <div align="center" style="margin-bottom: 1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
@@ -33,5 +32,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" style="max-width: 100%;" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" style="max-width: 100%;" />
   </div>
-</div>
 
