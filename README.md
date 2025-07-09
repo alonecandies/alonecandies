@@ -23,13 +23,7 @@
 
 ## :fire: My Works:
 
-  <!-- First item centered -->
-  <div align="center" style="margin-bottom: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
-  </div>
-
-  <!-- Next two items in a flex row -->
-  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: flex-start" align="flex-start" align="start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" width="auto" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" width="auto" />
-  </div>
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=30&hide=PHP,C%23,Jupyter%20Notebook,Perl,TeX,XSLT,Raku,Batchfile,Handlebars,Nix&layout=compact" alt="Top Langs" width="auto" />
+</div>
