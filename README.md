@@ -21,9 +21,15 @@
 📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/ 
 
 ## :fire: My Works:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut)
+<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+  <!-- First item centered -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 100%;" />
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+  <!-- Next two items in a flex row -->
+  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" style="max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" style="max-width: 100%;" />
+  </div>
+</div>
 
