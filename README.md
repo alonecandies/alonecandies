@@ -24,8 +24,8 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
   <!-- First item centered -->
-  <div style="justify-content: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 100%;" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
   </div>
 
   <!-- Next two items in a flex row -->
