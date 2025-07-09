@@ -22,12 +22,12 @@
 
 ## :fire: My Works:
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem;">
   <!-- First item centered -->
   <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" style="max-width: 100%;" />
 
   <!-- Next two items in a flex row -->
-  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: flex-start">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" style="max-width: 100%;" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" style="max-width: 100%;" />
   </div>
