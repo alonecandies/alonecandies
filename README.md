@@ -24,7 +24,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
   <!-- First item centered -->
-  <div align="center">
+  <div align="center" style="margin-bottom: 1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
   </div>
 
