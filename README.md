@@ -21,9 +21,9 @@
 📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/ 
 
 ## :fire: My Works:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)]
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 
