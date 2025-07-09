@@ -17,19 +17,19 @@
 </div>
 
 ## :man_technologist: About Me:
+
 👋 I am a lifelong learner, blockchain, and AI enthusiast, problem solver, start-up spirit, and business-oriented, btw, SEO expert :) My motto is "Knowledge is the only thing that nobody can take away from me." I am looking for an enterprise where I can use all my knowledge to make us stronger, scale up our careers, and benefit everyone.
-📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/ 
+📫 How to reach me: You can direct me https://www.linkedin.com/in/alonecandies/
 
 ## :fire: My Works:
 
   <!-- First item centered -->
-  <div align="center" style="margin-bottom: 1rem;">
+  <div align="center" style="margin-bottom: 16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
   </div>
 
   <!-- Next two items in a flex row -->
-  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: flex-start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" style="max-width: 100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" style="max-width: 100%;" />
+  <div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; align-items: flex-start" align="flex-start" align="start">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=20&layout=donut" alt="Top Langs" width="auto" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs" alt="WakaTime stats" width="auto" />
   </div>
-
