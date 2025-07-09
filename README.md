@@ -24,7 +24,7 @@
 
 ## :fire: My Works:
 
-<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;">
+<div style="display: flex; gap: 1rem; justify-content: center; align-items: flex-start;" align="start" align="flex-start">
   <img src="https://github-readme-stats.vercel.app/api?username=alonecandies&show_icons=true&theme=radical" alt="GitHub stats" width="auto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonecandies&langs_count=30&hide=PHP,C%23,Jupyter%20Notebook,Perl,TeX,XSLT,Raku,Batchfile,Handlebars,Nix&layout=compact" alt="Top Langs" width="auto" />
 </div>
